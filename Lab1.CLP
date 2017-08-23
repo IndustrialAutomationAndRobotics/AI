@@ -1,0 +1,1 @@
+(deffacts startup (animal dog) (animal cat) (animal duck) (animal turtle) (warm-blooded dog) (warm-blooded cat) (warm-blooded duck) (lays-eggs duck) (lays-eggs turtle) (child-of dog puppy) (child-of cat kitten) (child-of turtle hatchling))
